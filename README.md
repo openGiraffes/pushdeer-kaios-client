@@ -1,2 +1,2 @@
 # pushdeer-kaios-client
-PushDeer Service client for KaiOS
+PushDeer Service receiver for KaiOS
